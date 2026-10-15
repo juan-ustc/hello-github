@@ -10,4 +10,4 @@ print("Hello, GitHub! 我是 juan-ustc")
 import datetime
 print("今天是:", datetime.date.today())
 
-print("我正在学习: C 和 Python")
+print("今天是我成为程序员的第一天!")
